@@ -6,5 +6,4 @@ function osszegzes(){
 
     document.getElementById("osszeg").innerHTML = osszeg;
 }
-
-/* Átlagolás: HÁZI! */
+// Átlagolás: HÁZI!
